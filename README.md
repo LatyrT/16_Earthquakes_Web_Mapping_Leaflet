@@ -1,1 +1,1 @@
-# 16_Web-Mapping
+# 16_Earthquakes_Web_Mapping_Leaflet
