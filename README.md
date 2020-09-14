@@ -24,6 +24,7 @@ https://latyrt.github.io/17_Project_2/Global%20Page%20-%20Working%20Draft/global
 
 ## Results
 
+![GitHub Logo](Map1.png)
 ![GitHub Logo](Map.png)
 
 
