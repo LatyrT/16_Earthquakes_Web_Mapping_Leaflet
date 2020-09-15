@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="6-Time_Keeps_On_Ticking.gif">
-</p>
+</p> 
 
 In this assignment, Latyr is using GeoJSON to retrieve data from a website and show earthquakes using interactive maps.
 
