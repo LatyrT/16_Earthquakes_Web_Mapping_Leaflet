@@ -72,7 +72,7 @@ d3.json(url, function(data) {
     legend.onAdd = function (lgd) {
     
         var div = L.DomUtil.create('div', 'info legend'),
-            grades = [ 2.5, 3.5, 4.5, 5, 6, 6.5];
+            grades = [0, 2.5, 3.5, 4.5, 5, 6, 6.5];
     
         // loop through our density intervals and generate a label with a colored square for each interval
         for (var i = 0; i < grades.length; i++) {
